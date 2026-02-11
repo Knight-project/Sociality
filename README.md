@@ -41,18 +41,6 @@ The problem is that using social media via a mobile browser is usually a clunky,
 
 ---
 
-## Visual Changes
-
-<small> _Sociality surgically removes "Download App" bloat to reclaim your screen space along with other UI fixes._ </small>
-
-| Feature    | Standard Webview (Before)                                                       | Sociality (After Injection)                                                   |
-| :--------- | :------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
-| **Reddit** | <img src="screenshots/reddit_before.png" width="300" alt="Reddit app prompts"/> | <img src="screenshots/reddit_after.png" width="300" alt="Reddit clean view"/> |
-
-> **_Unable to show other exampled due to Privacy and Doxxing Concerns_**
-
----
-
 ## Supported Platforms
 
 <small> Only the listed sites are supported now... </small>
@@ -66,6 +54,18 @@ The problem is that using social media via a mobile browser is usually a clunky,
 - **GitHub**
 - **Bluesky**
 - **Xikipedia** — _(Check out the original project: [Xikipedia](https://github.com/rebane2001/xikipedia))_
+
+---
+
+## Visual Changes
+
+<small> _Sociality surgically removes "Download App" bloat to reclaim your screen space along with other UI fixes._ </small>
+
+| Feature    | Standard Webview (Before)                                                       | Sociality (After Injection)                                                   |
+| :--------- | :------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
+| **Reddit** | <img src="screenshots/reddit_before.png" width="300" alt="Reddit app prompts"/> | <img src="screenshots/reddit_after.png" width="300" alt="Reddit clean view"/> |
+
+> **_Unable to show other exampled due to Privacy and Doxxing Concerns_**
 
 ---
 
