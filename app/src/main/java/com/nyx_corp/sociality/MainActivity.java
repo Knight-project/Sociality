@@ -1,5 +1,7 @@
 package com.nyx_corp.sociality;
 
+import static android.content.Intent.getIntent;
+
 import android.app.AlertDialog;
 import android.app.DownloadManager;
 import android.content.ActivityNotFoundException;
